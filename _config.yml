@@ -3,11 +3,11 @@
 # @Email:  1037893409@qq.com
 # @Filename: _config.yml
 # @Last modified by:   sussertod
-# @Last modified time: 2017-08-25T18:10:26+08:00
+# @Last modified time: 2017-08-25T18:19:07+08:00
 
 # site settings
 title: Stacy
-subtitle: by HTML5 UP
+subtitle: Sussertod
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/stacy_blog" # the subpath of your site, e.g. /blog
